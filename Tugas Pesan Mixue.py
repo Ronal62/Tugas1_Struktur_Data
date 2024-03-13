@@ -1,7 +1,7 @@
 #Struktur Data
 #Kelompok 3
 #Nama : Ronald Budi Abdul Wahid   #NIM :23091397142
-#Nama :                           #NIM :
+#Nama : Muhammad Ibnu Nadhif      #NIM :23091397161
 #Nama :                           #NIM :
 
 class ItemMenu:
